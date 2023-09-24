@@ -44,4 +44,7 @@
 ![image](https://github.com/PrinceAjudiya/visitor-application-restapi-django/assets/61839676/7d321da3-8ef4-48ab-91c1-559f2e810ed8)
 
 
+## Unit Test
+
+![image](https://github.com/PrinceAjudiya/visitor-application-restapi-django/assets/61839676/24ace6ad-43d8-4193-b727-eca222af4e5d)
 
